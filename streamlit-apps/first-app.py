@@ -9,7 +9,7 @@ st.subheader("1. Goat Satay")
 #to write a text
 st.write("The websites is sooo amazing. I could write anything I wanted.")
 
-st.write("this is the goat satay that i like")
+st.write("this is the goat satay that i like ->")
 
 if st.button("See me"):
     st.write("☠️🍳🍳🌟🍳🌟🍳🌟😭🌟 APril Fools")
